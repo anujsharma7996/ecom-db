@@ -1,4 +1,5 @@
-[
+{
+"products": [
 {
 "id": 1,
 "title": "Samsung S21 Ultra 5G (Phantom Black, 12GB RAM, 256GB Storage)",
@@ -24,3 +25,4 @@
 "rating": 4
 }
 ]
+}
